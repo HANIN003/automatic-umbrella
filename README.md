@@ -1,2 +1,2 @@
 # automatic-umbrella
-Portfolio of my work
+Portfolio of My Work
